@@ -1,14 +1,14 @@
 {
   "dependencies": {
-    "@create-figma-plugin/ui": "^1.5.0-alpha.1",
-    "@create-figma-plugin/utilities": "^1.5.0-alpha.1",
+    "@create-figma-plugin/ui": "^1.5.1",
+    "@create-figma-plugin/utilities": "^1.5.1",
     "preact": "^10",
     "prismjs": "^1.25.0",
     "react-simple-code-editor": "^0.11.0"
   },
   "devDependencies": {
-    "@create-figma-plugin/build": "^1.5.0-alpha.1",
-    "@create-figma-plugin/tsconfig": "^1.5.0-alpha.1",
+    "@create-figma-plugin/build": "^1.5.1",
+    "@create-figma-plugin/tsconfig": "^1.5.1",
     "@figma/plugin-typings": "1.33.0",
     "@types/prismjs": "^1.16.6",
     "@types/react": "^16",
